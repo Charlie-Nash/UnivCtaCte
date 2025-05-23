@@ -1,0 +1,4 @@
+@UnivCtaCte.Api_HostAddress = http://localhost:5003
+
+GET {{UnivCtaCte.Api_HostAddress}}/
+Accept: application/json
