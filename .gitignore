@@ -38,3 +38,4 @@ dist/
 
 # Archivos específicos de tu solución
 UnivCtaCte.Api/appsettings.json
+UnivCtaCte.Api/appsettings_para_docker.json
